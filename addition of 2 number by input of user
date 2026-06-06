@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int p,q,r;
+printf("enter the numbers for additon of 2 numbers");
+scanf("%d",&p);
+scanf("%d",&q);
+r=p+q;
+printf("additi0on is %d",r);
+
+}
